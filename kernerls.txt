@@ -1,0 +1,3 @@
+https://www.kaggle.com/fabiendaniel/customer-segmentation
+https://www.kaggle.com/allunia/e-commerce-sales-forecast
+https://www.kaggle.com/hendraherviawan/customer-purchasing-patterns
